@@ -1,14 +1,10 @@
 {
   "users": {
     "alice": {
-      "roles": ["admin"],
-      "location": {
-        "country": "US",
-        "ip": "8.8.8.8"
-      }
+      "roles": ["admin"]
     },
     "bob": {
-      "roles": ["employee", "billing"]
+      "roles": ["employee", "guest"]
     }
   },
   "role_permissions": {
@@ -46,16 +42,6 @@
       {
         "action": "update",
         "type": "cat"
-      }
-    ],
-    "billing": [
-      {
-        "action": "read",
-        "type": "finance"
-      },
-      {
-        "action": "update",
-        "type": "finance"
       }
     ],
     "guest": [
