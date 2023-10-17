@@ -8,7 +8,7 @@
     }
   },
   "role_permissions": {
-    "customer": [
+    "admin": [
       {
         "action": "read",
         "type": "dog"
