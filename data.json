@@ -10,48 +10,32 @@
   "role_permissions": {
     "admin": [
       {
-        "action": "read",
-        "type": "dog"
+        "action": "enter",
+        "type": "administracao"
       },
       {
-        "action": "read",
-        "type": "cat"
+        "action": "enter",
+        "type": "engenharia"
       },
       {
-        "action": "adopt",
-        "type": "dog"
-      },
-      {
-        "action": "adopt",
-        "type": "cat"
+        "action": "enter",
+        "type": "anfiteatro"
       }
     ],
     "employee": [
       {
-        "action": "read",
-        "type": "dog"
+        "action": "enter",
+        "type": "engenharia"
       },
       {
-        "action": "read",
-        "type": "cat"
-      },
-      {
-        "action": "update",
-        "type": "dog"
-      },
-      {
-        "action": "update",
-        "type": "cat"
+        "action": "enter",
+        "type": "anfiteatro"
       }
     ],
     "guest": [
      {
-       "action": "read",
-       "type": "cat"
-     },
-     {
-       "action": "read",
-       "type": "finance"
+       "action": "enter",
+       "type": "anfiteatro"
      }
     ]
   }
