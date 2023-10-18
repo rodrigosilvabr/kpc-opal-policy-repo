@@ -3,16 +3,23 @@
         "1": {
             "name": "Rodrigo Silva",
             "role": [
-                "Admin"
+                "admin"
             ],
             "cpf": "1"
         },
         "2": {
             "name": "Rodrigo Silva2",
             "role": [
-                "Visitante"
+                "empregado"
             ],
             "cpf": "2"
+        },
+        "3": {
+            "name": "toto",
+            "role": [
+                "visitante"
+            ],
+            "cpf": "3"
         },
         "": {
             "name": "",
@@ -45,7 +52,7 @@
                 "type": "Anfiteatro"
             }
         ],
-        "guest": [
+        "visitante": [
             {
                 "action": "enter",
                 "type": "Anfiteatro"
