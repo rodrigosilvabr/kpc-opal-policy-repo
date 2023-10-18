@@ -8,22 +8,22 @@
             "cpf": "1"
         },
         "2": {
-            "name": "Rodrigo Silva2",
-            "role": [
+            "name": "Rodrigo",
+            "roles": [
                 "empregado"
             ],
             "cpf": "2"
         },
         "3": {
             "name": "toto",
-            "role": [
+            "roles": [
                 "visitante"
             ],
             "cpf": "3"
         },
         "": {
             "name": "",
-            "role": [],
+            "roles": [],
             "cpf": ""
         }
     },
