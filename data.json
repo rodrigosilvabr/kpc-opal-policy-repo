@@ -3,7 +3,7 @@
     "alice": {
       "roles": ["admin"]
     },
-    "bob": {
+    "2": {
       "roles": ["employee", "guest"]
     }
   },
