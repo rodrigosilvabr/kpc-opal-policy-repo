@@ -2,7 +2,7 @@
     "users": {
         "1": {
             "name": "Rodrigo Silva",
-            "role": [
+            "roles": [
                 "admin"
             ],
             "cpf": "1"
