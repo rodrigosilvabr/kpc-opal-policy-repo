@@ -1,1 +1,55 @@
-{"users": {"1": {"name": "Rodrigo Silva", "role": ["Admin"], "cpf": "1"}, "2": {"name": "Rodrigo Silva2", "role": ["Visitante"], "cpf": "2"}, "": {"name": "", "role": [], "cpf": ""}}, "role_permissions": {"admin": [{"action": "enter", "type": "Administracao"}, {"action": "enter", "type": "Engenharia"}, {"action": "enter", "type": "Anfiteatro"}], "empregado": [{"action": "enter", "type": "Engenharia"}, {"action": "enter", "type": "Anfiteatro"}], "guest": [{"action": "enter", "type": "Anfiteatro"}]}}
+{
+    "users": {
+        "1": {
+            "name": "Rodrigo Silva",
+            "role": [
+                "Admin"
+            ],
+            "cpf": "1"
+        },
+        "2": {
+            "name": "Rodrigo Silva2",
+            "role": [
+                "Visitante"
+            ],
+            "cpf": "2"
+        },
+        "": {
+            "name": "",
+            "role": [],
+            "cpf": ""
+        }
+    },
+    "role_permissions": {
+        "admin": [
+            {
+                "action": "enter",
+                "type": "Administracao"
+            },
+            {
+                "action": "enter",
+                "type": "Engenharia"
+            },
+            {
+                "action": "enter",
+                "type": "Anfiteatro"
+            }
+        ],
+        "empregado": [
+            {
+                "action": "enter",
+                "type": "Engenharia"
+            },
+            {
+                "action": "enter",
+                "type": "Anfiteatro"
+            }
+        ],
+        "guest": [
+            {
+                "action": "enter",
+                "type": "Anfiteatro"
+            }
+        ]
+    }
+}
