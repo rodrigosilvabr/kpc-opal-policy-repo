@@ -20,6 +20,13 @@
                 "visitante"
             ],
             "cpf": "3"
+        },
+        "4": {
+            "name": "Mary",
+            "roles": [
+                "visitante"
+            ],
+            "cpf": "4"
         }
     },
     "role_permissions": {
