@@ -34,24 +34,12 @@
             {
                 "action": "enter",
                 "type": "Administracao"
-            },
-            {
-                "action": "enter",
-                "type": "Engenharia"
-            },
-            {
-                "action": "enter",
-                "type": "Anfiteatro"
             }
         ],
         "empregado": [
             {
                 "action": "enter",
                 "type": "Engenharia"
-            },
-            {
-                "action": "enter",
-                "type": "Anfiteatro"
             }
         ],
         "visitante": [
