@@ -3,7 +3,7 @@
         "1": {
             "name": "Rodrigo Silva",
             "roles": [
-                "visitante"
+                "admin"
             ],
             "cpf": "1"
         },
@@ -24,7 +24,7 @@
         "4": {
             "name": "Mary",
             "roles": [
-                "visitante"
+                "admin"
             ],
             "cpf": "4"
         }
