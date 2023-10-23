@@ -20,6 +20,14 @@
                 "visitante"
             ],
             "cpf": "3"
+        },
+        "4": {
+            "name": "toto",
+            "roles": [
+                "admin",
+                "empregado"
+            ],
+            "cpf": "4"
         }
     },
     "role_permissions": {
@@ -36,10 +44,6 @@
             }
         ],
         "visitante": [
-            {
-                "action": "enter",
-                "type": "Administracao"
-            },
             {
                 "action": "enter",
                 "type": "Anfiteatro"
