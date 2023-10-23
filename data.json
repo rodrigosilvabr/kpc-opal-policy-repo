@@ -25,7 +25,8 @@
             "name": "toto",
             "roles": [
                 "admin",
-                "empregado"
+                "empregado",
+                "visitante"
             ],
             "cpf": "4"
         }
