@@ -20,15 +20,6 @@
                 "visitante"
             ],
             "cpf": "3"
-        },
-        "4": {
-            "name": "toto",
-            "roles": [
-                "admin",
-                "empregado",
-                "visitante"
-            ],
-            "cpf": "4"
         }
     },
     "role_permissions": {
