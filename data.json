@@ -27,6 +27,10 @@
             {
                 "action": "enter",
                 "type": "Administracao"
+            },
+            {
+                "action": "enter",
+                "type": "Anfiteatro"
             }
         ],
         "empregado": [
